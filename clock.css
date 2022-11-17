@@ -1,7 +1,7 @@
 body{
    background-color: aqua;
    box-sizing: border-box;
-   justify-content: center
+   justify-content: start;
    display: flex;
    flex: 1;
    min-height: 100vh;
