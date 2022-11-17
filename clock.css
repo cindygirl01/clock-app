@@ -1,7 +1,6 @@
 body{
    background-color: aqua;
    box-sizing: border-box;
-   margin-left:20em;
    justify-content: center
    display: flex;
    flex: 1;
